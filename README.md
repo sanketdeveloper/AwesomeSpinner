@@ -30,7 +30,7 @@ implementation 'com.github.sadra:AwesomeSpinner:1.5.2'
 
 ## How To Use
 
-**Step 1.** From very firts, you should add the **Awsome Spinner** component inside of your layout:
+**Step 1.** From very first, you should add the **Awsome Spinner** component inside of your layout:
 ```xml
     <com.isapanah.awesomespinner.AwesomeSpinner
         android:id="@+id/my_spinner"
